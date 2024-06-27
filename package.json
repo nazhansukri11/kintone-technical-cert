@@ -1,0 +1,21 @@
+{
+  "name": "technical-cert-code",
+  "version": "1.0.0",
+  "description": "Customization for solving auto populate excel file to kintone records",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nazhan",
+  "license": "ISC",
+  "devDependencies": {
+    "@cybozu/eslint-config": "^23.0.0",
+    "@kintone/customize-uploader": "^8.0.13",
+    "eslint": "^9.5.0",
+    "init": "^0.1.2",
+    "prettier": "^3.3.2"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
